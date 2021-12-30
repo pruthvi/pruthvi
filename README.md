@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Pruthvi 👋
+
+![](https://media.giphy.com/media/WTJLe0xXX6QrPg1nVl/giphy.gif)
+
+🔭 I’m Game Developer/Producer based in Toronto, Canada.
+
+📫 Reach me at hi@pruthvi.ca
+
 
 <!--
 **pruthvi/pruthvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
