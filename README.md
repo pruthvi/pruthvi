@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/WTJLe0xXX6QrPg1nVl/giphy.gif)
 
-🔭 I’m Game Developer/Producer based in Toronto, Canada.
+🔭 I’m Developer based in Toronto, Canada. I specialise in data extraction and web development! Oh, I also sometimes design and develop games.
 
 📫 Reach me at hi@pruthvi.ca
 
